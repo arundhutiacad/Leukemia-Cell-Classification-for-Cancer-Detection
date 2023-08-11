@@ -1,5 +1,5 @@
 # Leukemia-Cell-Classification-for-Cancer-Detection
-[Landing Page](https://medlineplus.gov/images/LeukemiaWBC_share.jpg)
+![Image Alt Text](https://medlineplus.gov/images/LeukemiaWBC_share.jpg)
 ### Overview
 Welcome to the Leukemic Cell Classification Project! This project aims to develop a robust and highly accurate machine learning model for classifying leukemic cells from microscopic images. By harnessing the power of various machine learning algorithms, including Random Forest, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Convolutional Neural Networks (CNN), and Naive Bayes, we strive to create an automated system that can distinguish between normal and leukemic cells. The successful implementation of this project has the potential to revolutionize clinical decision-making, enhance diagnostic accuracy, and improve treatment outcomes for leukemia patients, particularly within the pediatric population.
 
